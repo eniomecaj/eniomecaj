@@ -1,15 +1,14 @@
-# 👋 Hi, I'm Enio Mecaj
+#  Hi, I'm Enio Mecaj
 
-🎓 Electrical & Electronic Engineer  
-🛠️ Passionate about Arduino, sensors, embedded systems, and repairing cool stuff  
-🌍 Based in the UK | Open to global opportunities & sponsorship
+Electrical & Electronic Engineer  
+Passionate about Arduino, sensors, embedded systems, and repairing cool stuff  
+Based in the UK | Open to global opportunities & sponsorship
 
 ---
 
-## 🔗 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/eniomecaj)  
-- 📧 [Email](mailto:eniomecaj76@gmail.com)  
-- 📄 [CV / Resume (optional)](https://link-to-cv.com)
+## Connect With Me
+- [LinkedIn](https://linkedin.com/in/eniomecaj)  
+- [Email](mailto:eniomecaj76@gmail.com)  
 
 ---
 
@@ -19,14 +18,14 @@
 
 ---
 
-## 🧪 Projects (Coming Soon)
-- `Smart Plant Monitor` – Arduino + sensors to care for a plant  
-- `Personal Repair Tracker` – Documenting broken electronics I’ve fixed  
-- More embedded/IoT stuff coming...
+## Projects (Coming Soon)
+- **Robotic Spider** – Multi-legged walker using servos, Arduino, and motion logic  
+- **Gothic Music Box** – Fantasy-inspired music box with LED effects and custom motion  
+- **Smart Plant Monitor** – Arduino-based environmental tracker for houseplants
 
 ---
 
-## 🚀 Goals
+## Goals
 - Build a few standout Arduino projects  
 - Learn embedded C & PCB design  
-- Get a job or master's with Skilled Worker sponsorship  
+- Get a job or master's in electrical/electronics engineering  
