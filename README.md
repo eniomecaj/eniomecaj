@@ -12,7 +12,7 @@ Based in the UK | Open to global opportunities & sponsorship
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Enio's GitHub stats](https://github-readme-stats.vercel.app/api?username=eniomecaj&show_icons=true&theme=default)
 
