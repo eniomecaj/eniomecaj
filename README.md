@@ -18,6 +18,12 @@ I'm open to global job opportunities, sponsorships, and collaborative projects.
 
 ---
 
+## GitHub Stats
+
+![Enio's GitHub stats](https://github-readme-stats.vercel.app/api?username=eniomecaj&show_icons=true&theme=default)
+
+---
+
 ## Projects
 
 | Project               | Description                                                   |
