@@ -22,8 +22,8 @@ I'm open to global job opportunities, sponsorships, and collaborative projects.
 
 ![Enio's GitHub stats](https://github-readme-stats.vercel.app/api?username=eniomecaj&show_icons=true&theme=default)
 
+<!--
 ---
-
 ## Projects
 
 | Project               | Description                                                   |
@@ -34,8 +34,9 @@ I'm open to global job opportunities, sponsorships, and collaborative projects.
 | Distance Sensor       | HC-SR04 project with buzzer alerts and Python data logging    |
 
 More projects coming soon...
-
----
+--- 
+``
+-->
 
 ## Technical Skills
 
@@ -60,8 +61,8 @@ Ultrasonic sensors, DC/Servo motors, motor drivers, buzzers, LEDs, multimeters, 
 
 ## Goals
 
-- Build a collection of well-documented Arduino projects  
-- Learn embedded C and start custom PCB designs  
+- Build a collection of Arduino projects  
+- Learn embedded C more thoroughly and start custom PCB designs  
 - Secure a graduate job or master's degree in the UK or Europe  
 - Share and document more projects in public
 
